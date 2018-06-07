@@ -8,13 +8,13 @@ By Michael Petrinovic (mipetrin@cisco.com)
 NOTE: You can also download a Docker Container with all of these scripts embedded. More details from:
 https://hub.docker.com/r/mipetrin/aio-brkdcn-2011/
 
+
 docker pull mipetrin/aio-brkdcn-2011
 
 
 Alternatively, you can build the Docker Container locally on your machine:
 
 docker build -t <name/tag> .
-
 
 
 WARNING:
