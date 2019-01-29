@@ -1,6 +1,7 @@
 NetDevOps: How Programmability and Automation can assist with Day 2 Operations in the Data Centre [BRKDCN-2011]
 
 Cisco Live Orlando 2018 Session
+Cisco Live Barcelona 2019 Session
 
 By Michael Petrinovic (mipetrin@cisco.com)
 
