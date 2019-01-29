@@ -1,4 +1,4 @@
-# Dockerfile to help explain concepts from my Cisco Live Orlando 2018 session:
+# Dockerfile to help explain concepts from my Cisco Live Orlando 2018 / Cisco Live Barcelona 2019 session:
 #
 # BRKDCN-2011 : How programmability and automation can assist with Day 2 operations in the Data Center
 #
