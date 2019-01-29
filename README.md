@@ -1,12 +1,13 @@
 NetDevOps: How Programmability and Automation can assist with Day 2 Operations in the Data Centre [BRKDCN-2011]
 
 Cisco Live Orlando 2018 Session
+
 Cisco Live Barcelona 2019 Session
 
 By Michael Petrinovic (mipetrin@cisco.com)
 
 
-NOTE: You can also download a Docker Container with all of these scripts embedded. More details from:
+NOTE: You can also download a Docker Container with all of these scripts embedded. However, this method may contain older versions of the script if I haven't pushed a new Docker Container Image. More details from:
 https://hub.docker.com/r/mipetrin/aio-brkdcn-2011/
 
 
@@ -15,7 +16,7 @@ https://hub.docker.com/r/mipetrin/aio-brkdcn-2011/
 ```
 
 
-Alternatively, you can build the Docker Container locally on your machine:
+Alternatively, to ensure you always have the latest version of these scripts, you can build the Docker Container locally on your machine:
 
 ```YAML
 # docker build -t <name/tag> .
